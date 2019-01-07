@@ -1,0 +1,6 @@
+@media only screen and (max-width: 640px) {
+  .intro {height: 100%;}
+  .intro h1{font-size: 20px}
+  .flex-section-1{display: flex;flex-direction:column;justify-content: right}
+  .flex-section-1 div{margin-left:25%;height: 150px; width:225px; border:2px solid black; background-color: #E9E9E9; margin-top: 5px}
+}
